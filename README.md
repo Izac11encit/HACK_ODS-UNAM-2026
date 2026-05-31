@@ -23,7 +23,6 @@ Este proyecto fue desarrollado durante el HackODS UNAM 2026 utilizando datos abi
 - Python
 - Pandas
 - Plotly
-- Quarto
 - GitHub
 
 ## Fuente de datos
